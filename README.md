@@ -1,1 +1,1 @@
-# 2020-1 Matrix Computation @CAU
+# syp-cau.github.io
